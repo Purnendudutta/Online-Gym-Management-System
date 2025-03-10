@@ -6,9 +6,6 @@
 
 `Then go to http://localhost/phpmyadmin`
 
-`Create a database name - "bikerental"`
+`Create a database name - "gymdb"`
 
-`Run the script - "http://localhost/Bike-Rental-Management-System/"`
-
-`For Admin Panel`
-`Open Your browser and put inside browser URL panel "http://localhost/Bike-Rental-Management-System/admin/" `
+`Run the script - "http://localhost/Online-Gym-Management-System/"`
