@@ -8,4 +8,4 @@
 
 `Create a database name - "gymdb"`
 
-`Run the script - "http://localhost/Online-Gym-Management-System/"`
+`Run the script - "http://localhost/Online-Gym-Management-System/" in a new tab`
